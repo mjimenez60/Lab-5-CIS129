@@ -18,8 +18,8 @@ def main():
 
     # Step 2: Loop to run the program again
     while keepGoing == "y":
-        totalBottles = 0
-        counter = 0
+            totalBottles = 0
+            counter = 0
         
         # Step 3: Collect bottles for 7 days. Input to set value of variables.
         while counter < 7:
